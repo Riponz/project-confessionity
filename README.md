@@ -18,7 +18,6 @@
   <a href="#license">License</a>
 </p>
 
-<!-- ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif) -->
 
 ## Key Features
 
@@ -76,3 +75,20 @@ npm run dev
 ## Emailware
 
 Confessionity is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app/platform or it has helped you in any way, I'd like you send me an email at <biswasdiganta2002@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+
+## Screenshots
+
+![screenshot](./screenshots/confessionity-1.png)
+
+![screenshot](./screenshots/confessionity-login.png)
+
+![screenshot](./screenshots/confessionity-signup.png)
+
+![screenshot](./screenshots/confessionity-loggedin.png)
+
+![screenshot](./screenshots/confessionity-groups.png)
+
+![screenshot](./screenshots/confessionity-group-post.png)
+
+![screenshot](./screenshots/confessionity-profile.png)
+<!-- ![screenshot](./screenshots/confessionity) -->
